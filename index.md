@@ -13,7 +13,13 @@ Les regles de la **Llista de Morts** són ben simples:
 
 Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2023 a l'adreça llistademorts@gmail.com
 
+# Progrés de la llista
+
+1 encert de 50 possibles
+- [Raimon Carrasco i Azemar](2022/01_Raimon_Carrasco_i_Azemar), 98 anys,  empresari i expresident del Barça
+
 # Llista de Morts 2022
+
 
 | Posició | Nom | Edat | Descripció |
 | ------: |-----|-----:|----------- |
@@ -47,7 +53,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2023 a 
 | 28 | Maruja Torres	| 78 |	Escriptora i periodista |
 | 29 | Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies	| 83 |	Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
 | 30 | Lluís Permanyer	| 82 |	Periodista i escriptor |
-| 31 | Raimon Carrasco	| 97 |	Empresari i expresident del Barça |
+| 31 | [Raimon Carrasco i Azemar](2022/01_Raimon_Carrasco_i_Azemar)	| 98 |	Empresari i expresident del Barça |
 | 32 | Pasqual Maragall i Mira	| 80 |	President de Catalunya |
 | 33 | Roser Capdevila	| 82 |	Dibuixant |
 | 34 | Magda Oranich	| 76 |	Advocada |
