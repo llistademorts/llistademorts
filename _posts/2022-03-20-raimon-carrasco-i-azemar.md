@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: 2022
 title:  "S'ha mort Raimon Carrasco i Azemar"
 ---
 # Raimon Carrasco i Azemar
