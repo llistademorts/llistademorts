@@ -2,7 +2,7 @@
 layout: post
 title:  "S'ha mort Núria Feliu"
 ---
-# Núria Feliu-
+# Núria Feliu
 
 Avui, 22 de juliol de 2022, ens deixa [Núria Feliu i Mestres](https://ca.wikipedia.org/wiki/N%C3%BAria_Feliu_i_Mestres), cantant i veïna del barri de Sant de Barcelona.
 
