@@ -24,21 +24,21 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | Posició | Nom | Edat | Descripció |
 | ------: |-----|-----:|----------- |
 | 1 | Maria Branyas| 115 | Supercentenària |
-| 2 | Josep Maria Espinàs i Massip| 95 | Escriptor |
-| 3 | Jaume Pla i Pladevall| 94 | Actor |
-| 4 | Joan Veny i Clar| 90 | Lingüísta |
-| 5 | Rosa Regàs Pagés| 89 | Escriptora |
-| 6 | Rodolfo Martín Villa| 88 | Polític i fugat de la justícia argentina |
-| 7 | Núria Espert| 87 | Poltítica |
-| 8 | Marta Ferrusola i Lladós| 87 | Convergent |
-| 9 | Fèlix Millet i Tusell| 87 | Lladre |
-| 10 | Francisco Ibáñez| 86 | Dibuixant |
-| 11 | Amancio Ortega| 86 | Empresari |
-| 12 | Teresa Gimpera i Flaquer| 86 | Actriu i model |
-| 13 | Joaquim Arenas i Sampera| 84 | Mestre i pedagog |
-| 14 | Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies| 84 | Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
-| 15 | Josep Maria Flotats i Picas| 83 | Actor |
-| 16 | Josep Maria Flotats| 83 | Actor i director de teatre |
+| 2 | Pere Portabella i Ràfols| 95 | Director i guionista |
+| 3 | Josep Maria Espinàs i Massip| 95 | Escriptor |
+| 4 | Jaume Pla i Pladevall| 94 | Actor |
+| 5 | Joan Veny i Clar| 90 | Lingüísta |
+| 6 | Rosa Regàs Pagés| 89 | Escriptora |
+| 7 | Rodolfo Martín Villa| 88 | Polític i fugat de la justícia argentina |
+| 8 | Núria Espert| 87 | Poltítica |
+| 9 | Marta Ferrusola i Lladós| 87 | Convergent |
+| 10 | Fèlix Millet i Tusell| 87 | Lladre |
+| 11 | Francisco Ibáñez| 86 | Dibuixant |
+| 12 | Amancio Ortega| 86 | Empresari |
+| 13 | Teresa Gimpera i Flaquer| 86 | Actriu i model |
+| 14 | Joaquim Arenas i Sampera| 84 | Mestre i pedagog |
+| 15 | Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies| 84 | Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
+| 16 | Josep Maria Flotats i Picas| 83 | Actor |
 | 17 | Roser Capdevila| 83 | Dibuixant |
 | 18 | Manuel Royes i Vila| 82 | Polític |
 | 19 | Jaume Figueras i Rabert| 82 | Analista cinematogràfic |
