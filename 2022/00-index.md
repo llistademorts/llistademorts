@@ -1,5 +1,8 @@
 # Llista de Morts 2022
+2 encerts de 50 possibles
 
+- Raimon Carrasco i Azemar, 98 anys, empresari i expresident del Barça
+- Núria Feliu, 80 anys, cantant
 
 | Posició | Nom | Edat | Descripció |
 | ------: |-----|-----:|----------- |
