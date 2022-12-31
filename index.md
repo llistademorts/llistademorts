@@ -15,8 +15,10 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2023 a 
 
 # Progrés de la llista
 
-1 encert de 50 possibles
+2 encerts de 50 possibles
 - [Raimon Carrasco i Azemar](2022/01-Raimon_Carrasco_i_Azemar), 98 anys,  empresari i expresident del Barça
+- [Núria Feliu](2022/02-Núria_Feliu_i_Mestres.md), 80 anys, cantant
+
 
 # Llista de Morts 2022
 
@@ -49,7 +51,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2023 a 
 | 24 | Pilarín Bayés	| 80 |	Dibuixant |
 | 25 | Joan Pera	| 73 |	Actor i actor de doblatge |
 | 26 | Salvador Alemany	| 77 |	Empresari |
-| 27 | Núria Feliu	| 80 |	Cantant |
+| 27 | [Núria Feliu](2022/02-Núria_Feliu_i_Mestres.md)	| 80 |	Cantant |
 | 28 | Maruja Torres	| 78 |	Escriptora i periodista |
 | 29 | Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies	| 83 |	Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
 | 30 | Lluís Permanyer	| 82 |	Periodista i escriptor |
