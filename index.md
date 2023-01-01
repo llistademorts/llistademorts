@@ -22,8 +22,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 
 | Posició | Nom | Edat | Descripció |
-| ------: |-----|-----:|----------- |
-| 1 | [Maria Branyas](https://it.wikipedia.org/wiki/Maria_Branyas_Morera)| 115 | Supercentenària |
+| ------: |-----|-----:|----------- || 1 | [Maria Branyas](https://it.wikipedia.org/wiki/Maria_Branyas_Morera)| 115 | Supercentenària |
 | 2 | [Pere Portabella i Ràfols](https://ca.wikipedia.org/wiki/Pere_Portabella_i_R%C3%A0fols)| 95 | Director i guionista |
 | 3 | [Josep Maria Espinàs i Massip](https://ca.wikipedia.org/wiki/Josep_Maria_Espin%C3%A0s_i_Massip)| 95 | Escriptor |
 | 4 | [Jaume Pla i Pladevall](https://ca.wikipedia.org/wiki/Jaume_Pla_i_Pladevall)| 94 | Actor |
@@ -59,17 +58,17 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | 34 | [Josep Maria Mainat i Castells](https://ca.wikipedia.org/wiki/Josep_Maria_Mainat_i_Castells)| 76 | El ros de la Trinca |
 | 35 | [Xarli Reixach](https://ca.wikipedia.org/wiki/Carles_Rexach_i_Cerd%C3%A0)| 75 | Futbolista |
 | 36 | [Maria del Mar Bonet](https://ca.wikipedia.org/wiki/Maria_del_Mar_Bonet)| 75 | Cantant |
-| 37 | [Antoni Brufau i Niubó](https://ca.wikipedia.org/wiki/Antoni_Brufau_i_Niub%C3%B3)| 74 | President de Repsol |
-| 38 | [Lluís Llach i Grande](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Llach_i_Grande)| 74 | Cantant |
-| 39 | [Salvador Alsius i Clavera](https://ca.wikipedia.org/wiki/Salvador_Alsius_i_Clavera)| 74 | Periodista |
-| 40 | [Joaquim Maria Puyal i Ortiga](https://ca.wikipedia.org/wiki/Joaquim_Maria_Puyal_i_Ortiga)| 73 | Periodista |
-| 41 | [Juan Roig Alfonso](https://ca.wikipedia.org/wiki/Juan_Roig_Alfonso)| 73 | Empresari carni |
-| 42 | [Xavier Mariscal](https://ca.wikipedia.org/wiki/Xavier_Mariscal)| 72 | Dissenyador |
-| 43 | [Santiago Calatrava](https://ca.wikipedia.org/wiki/Santiago_Calatrava_Valls)| 71 | Arquitecte |
-| 44 | [José Manuel Villarejo](https://ca.wikipedia.org/wiki/Jos%C3%A9_Manuel_Villarejo)| 71 | Comissari de confiança |
-| 45 | [Santiago Niño Becerra](https://ca.wikipedia.org/wiki/Santiago_Ni%C3%B1o_Becerra)| 71 | Economista i predictor |
-| 46 | [Margarita Sánchez Gutiérrez](https://ca.wikipedia.org/wiki/Margarita_S%C3%A1nchez_Guti%C3%A9rrez)| 69 | Vídua |
-| 47 | [Eduardo Zaplana](https://ca.wikipedia.org/wiki/Eduardo_Zaplana_Hern%C3%A1ndez-Soro)| 66 | Polític i malalt terminal des del 2019 |
-| 48 | [Enrique Ponce](https://ca.wikipedia.org/wiki/Enrique_Ponce)| 51 | Assassí de toros |
-| 49 | [Joan Vila i Dilmé](https://ca.wikipedia.org/wiki/Joan_Vila_i_Dilm%C3%A9)| 47 | Zelador |
-| 50 | [Neus Soldevila Bartrina](https://criminalia.es/asesino/neus-soldevila/)| 41 | Dolça |
+| 37 | [Neus Soldevila Bartrina](https://criminalia.es/asesino/neus-soldevila/)| 75 | Dolça |
+| 38 | [Antoni Brufau i Niubó](https://ca.wikipedia.org/wiki/Antoni_Brufau_i_Niub%C3%B3)| 74 | President de Repsol |
+| 39 | [Lluís Llach i Grande](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Llach_i_Grande)| 74 | Cantant |
+| 40 | [Salvador Alsius i Clavera](https://ca.wikipedia.org/wiki/Salvador_Alsius_i_Clavera)| 74 | Periodista |
+| 41 | [Joaquim Maria Puyal i Ortiga](https://ca.wikipedia.org/wiki/Joaquim_Maria_Puyal_i_Ortiga)| 73 | Periodista |
+| 42 | [Juan Roig Alfonso](https://ca.wikipedia.org/wiki/Juan_Roig_Alfonso)| 73 | Empresari carni |
+| 43 | [Xavier Mariscal](https://ca.wikipedia.org/wiki/Xavier_Mariscal)| 72 | Dissenyador |
+| 44 | [Santiago Calatrava](https://ca.wikipedia.org/wiki/Santiago_Calatrava_Valls)| 71 | Arquitecte |
+| 45 | [José Manuel Villarejo](https://ca.wikipedia.org/wiki/Jos%C3%A9_Manuel_Villarejo)| 71 | Comissari de confiança |
+| 46 | [Santiago Niño Becerra](https://ca.wikipedia.org/wiki/Santiago_Ni%C3%B1o_Becerra)| 71 | Economista i predictor |
+| 47 | [Margarita Sánchez Gutiérrez](https://ca.wikipedia.org/wiki/Margarita_S%C3%A1nchez_Guti%C3%A9rrez)| 69 | Vídua |
+| 48 | [Eduardo Zaplana](https://ca.wikipedia.org/wiki/Eduardo_Zaplana_Hern%C3%A1ndez-Soro)| 66 | Polític i malalt terminal des del 2019 |
+| 49 | [Joan Vila i Dilmé](https://ca.wikipedia.org/wiki/Joan_Vila_i_Dilm%C3%A9)| 57 | Zelador |
+| 50 | [Enrique Ponce](https://ca.wikipedia.org/wiki/Enrique_Ponce)| 51 | Assassí de toros |
