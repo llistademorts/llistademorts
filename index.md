@@ -22,7 +22,8 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 
 | Posició | Nom | Edat | Descripció |
-| ------: |-----|-----:|----------- || 1 | [Maria Branyas](https://it.wikipedia.org/wiki/Maria_Branyas_Morera)| 115 | Supercentenària |
+| ------: |-----|-----:|----------- |
+| 1 | [Maria Branyas](https://it.wikipedia.org/wiki/Maria_Branyas_Morera)| 115 | Supercentenària |
 | 2 | [Pere Portabella i Ràfols](https://ca.wikipedia.org/wiki/Pere_Portabella_i_R%C3%A0fols)| 95 | Director i guionista |
 | 3 | [Josep Maria Espinàs i Massip](https://ca.wikipedia.org/wiki/Josep_Maria_Espin%C3%A0s_i_Massip)| 95 | Escriptor |
 | 4 | [Jaume Pla i Pladevall](https://ca.wikipedia.org/wiki/Jaume_Pla_i_Pladevall)| 94 | Actor |
