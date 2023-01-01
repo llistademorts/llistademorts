@@ -18,7 +18,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 0 encerts de 50 possibles (de moment)
 
 
-# Llista de Morts 2022
+# Llista de Morts 2023
 
 
 | Posició | Nom | Edat | Descripció |
