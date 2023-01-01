@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: 2022 
 title:  "S'ha mort Núria Feliu"
 ---
 # Núria Feliu
