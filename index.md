@@ -17,6 +17,12 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 0 encerts de 50 possibles (de moment)
 
+# Llistes anteriors
+
+| Any | Encerts | Percentatge|
+| --: |--------:|----------: |
+| [2022](./2022) | 2 | 4% |
+
 
 # Llista de Morts 2023
 
