@@ -9,7 +9,7 @@ Avui, 5 de febrer de 2023, ens deixa [Josep Maria Espinàs i Massip](https://ca.
 
 Fou autor d'una extensa obra narrativa amb la qual va aconseguir el Premi d'Honor de les Lletres Catalanes, el Premi Joanot Martorell, el Premi Sant Jordi i el Premi Víctor Català. També va ser el cofundador d'Els Setze Jutges i de l'editorial La Campana.
 
-En Josep M. Espinàs té l'honor d'inaugurar la llista d'encerts de la Llista de Morts de 2023. Descansi en pau.
+En Josep M. Espinàs té l'honor d'inaugurar la llista d'encerts de la **Llista de Morts** de 2023. Descansi en pau.
 
 Només l'hora és incerta.
 
