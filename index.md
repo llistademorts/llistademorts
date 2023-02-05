@@ -15,8 +15,8 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 # Progrés de la llista
 
-1 encert de 50 possibles (de moment)
-- 5 de febrer: Josep M. Espinàs
+1 encert de 50 possibles, 2% (de moment)
+- 5 de febrer: [Josep M. Espinàs](./2023-02-05-josep-m-espinas)
 
 # Llistes anteriors
 
