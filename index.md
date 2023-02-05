@@ -15,7 +15,8 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 # Progrés de la llista
 
-0 encerts de 50 possibles (de moment)
+1 encerts de 50 possibles (de moment)
+- 5 de febrer: Josep M. Espinàs
 
 # Llistes anteriors
 
@@ -31,7 +32,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | ------: |-----|-----:|----------- |
 | 1 | [Maria Branyas](https://it.wikipedia.org/wiki/Maria_Branyas_Morera)| 115 | Supercentenària |
 | 2 | [Pere Portabella i Ràfols](https://ca.wikipedia.org/wiki/Pere_Portabella_i_R%C3%A0fols)| 95 | Director i guionista |
-| 3 | [Josep Maria Espinàs i Massip](https://ca.wikipedia.org/wiki/Josep_Maria_Espin%C3%A0s_i_Massip)| 95 | Escriptor |
+| ~~3 | [Josep Maria Espinàs i Massip](https://ca.wikipedia.org/wiki/Josep_Maria_Espin%C3%A0s_i_Massip)| 95 | Escriptor~~ |
 | 4 | [Jaume Pla i Pladevall](https://ca.wikipedia.org/wiki/Jaume_Pla_i_Pladevall)| 94 | Actor |
 | 5 | [Joan Veny i Clar](https://ca.wikipedia.org/wiki/Joan_Veny_i_Clar)| 90 | Lingüísta |
 | 6 | [Rosa Regàs Pagés](https://ca.wikipedia.org/wiki/Rosa_Reg%C3%A0s_i_Pag%C3%A8s)| 89 | Escriptora |
