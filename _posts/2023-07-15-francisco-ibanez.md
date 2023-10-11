@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: 2023 
-title:  "S'ha mort Josep Maria Espinàs"
+title:  "S'ha mort Francisco Ibáñez Talavera"
 ---
 # Francisco Ibáñez Talavera
 

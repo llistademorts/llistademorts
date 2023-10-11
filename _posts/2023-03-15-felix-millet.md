@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: 2023 
-title:  "S'ha mort Josep Maria Espinàs"
+title:  "S'ha mort Fèlix Millet i Tusell"
 ---
 # Fèlix Millet i Tusell
 
