@@ -5,7 +5,7 @@ title:  "S'ha mort Josep Maria Espinàs"
 ---
 # Fèlix Millet i Tusell
 
-Avui, 15 de febrer de 2023, ens deixa [Fèlix Millet i Tusell](https://ca.wikipedia.org/wiki/F%C3%A8lix_Millet_i_Tusell), president d'Orfeó Català i lladre confés de llarga trajectòria nascut a Barcelona el 1935.
+Avui, 15 de març de 2023, ens deixa [Fèlix Millet i Tusell](https://ca.wikipedia.org/wiki/F%C3%A8lix_Millet_i_Tusell), president d'Orfeó Català i lladre confés de llarga trajectòria nascut a Barcelona el 1935.
 
 Fou fundador i president de la Fundació Orfeó Català i Palau de la Música Catalana des de 1990 fins que en va ser 
 destituït el 2009 després de confessar públicament la seva involucració en el que s'ha anomenat Cas Millet. No fou un 
