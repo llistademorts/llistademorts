@@ -5,7 +5,8 @@ title:  "S'ha mort Josep Maria Espinàs"
 ---
 # Francisco Ibáñez Talavera
 
-Avui, 15 de juliol de 2023, ens deixa [Francisco Ibáñez Talavera](https://ca.wikipedia.org/wiki/Francisco_Ib%C3%A1%C3%B1ez_Talavera), prolífic autor de còmics i cona de moltes generacions nasqué a Barcelona el 1936.
+Avui, 15 de juliol de 2023, ens deixa [Francisco Ibáñez Talavera](https://ca.wikipedia.org/wiki/Francisco_Ib%C3%A1%C3%B1ez_Talavera), 
+prolífic autor de còmics i icona de moltes generacions nasqué a Barcelona el 1936.
 
 Fou un dibuixant de còmics i creador de personatges i historietes tan famosos i dels què hem gaudit tant com 
 Mortadel·lo i Filemó, la família Trapisonda, 13 Rue del Percebe, el botones Sacarino, Rompetechos i Pepe Gotera
