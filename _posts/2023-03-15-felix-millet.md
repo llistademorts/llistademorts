@@ -17,5 +17,6 @@ Futur) de la fundació FAES.
 Només l'hora és incerta.
 
 ![Felix_Millet_set-2015_2693](https://github.com/llistademorts/llistademorts/assets/96840785/9750dc3c-dffa-40c8-9855-35f3f4bc9b38)
+
 Imatge:Amadalvarez, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/deed.en, via Wikimedia Commons
 Amadalvarez, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/deed.en>, via Wikimedia Commons
