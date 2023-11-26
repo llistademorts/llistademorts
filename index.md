@@ -15,10 +15,11 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 # Progrés de la llista
 
-3 encerts de 50 possibles, 6% (de moment)
+4 encerts de 50 possibles, 8% (de moment)
 - 5 de febrer: Josep M. Espinàs
 - 15 de març: Fèlix Millet i Tusell
 - 15 de juliol: Francisco Ibáñez
+- 25 de novembre: Terry Venables
 
 # Llistes anteriors
 
@@ -59,7 +60,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | 25 | [Mònica Randall](https://ca.wikipedia.org/wiki/M%C3%B2nica_Randall)|      80 | Actriu |
 | 26 | [Ramón Cotarelo García](https://ca.wikipedia.org/wiki/Ram%C3%B3n_Cotarelo_Garc%C3%ADa)|      80 | Politòleg i nou català |
 | 27 | [Ernest Maragall i Mira](https://ca.wikipedia.org/wiki/Ernest_Maragall_i_Mira)|      80 | Polític i tete |
-| 28 | [Terence Frederick Venables](https://ca.wikipedia.org/wiki/Terry_Venables)|      79 | Entrenador FCB |
+| ~~28~~ | [~~Terence Frederick Venables~~](https://ca.wikipedia.org/wiki/Terry_Venables)|      ~~79~~ | ~~Entrenador FCB~~ |
 | 29 | [Maruja Torres](https://ca.wikipedia.org/wiki/Maruja_Torres)|      79 | Escriptora i periodista |
 | 30 | [Joan Manuel Serrat](https://ca.wikipedia.org/wiki/Joan_Manuel_Serrat_i_Teresa)|      79 | Cantant i compositor |
 | 31 | [Jaume Banacolocha](https://ca.wikipedia.org/wiki/Jordi_Banacolocha)|      79 | Actor |
