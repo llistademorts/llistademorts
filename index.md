@@ -59,7 +59,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | 27 | [Mònica Randall](https://ca.wikipedia.org/wiki/M%C3%B2nica_Randall)| 81 | Actriu |
 | 28 | [Ernest Maragall i Mira](https://ca.wikipedia.org/wiki/Ernest_Maragall_i_Mira)| 80 | Polític i tete |
 | 29 | [Maruja Torres](https://ca.wikipedia.org/wiki/Maruja_Torres)| 80 | Escriptora i periodista |
-| 30 | ~~[Joan Rigol](https://ca.wikipedia.org/wiki/Joan_Rigol_i_Roig)~~| ~~80~~ |~~ President del Parlament de Catalunya~~ |
+| 30 | ~~[Joan Rigol](https://ca.wikipedia.org/wiki/Joan_Rigol_i_Roig)~~| ~~80~~ |~~President del Parlament de Catalunya~~ |
 | 31 | [Manuel Milián Mestre](https://ca.wikipedia.org/wiki/Manuel_Mili%C3%A1n_Mestre)| 80 | Polític i mà dreta de Fraga Iribarne |
 | 32 | [Joan Manuel Serrat](https://ca.wikipedia.org/wiki/Joan_Manuel_Serrat_i_Teresa)| 80 | Cantant i compositor |
 | 33 | [Josep Maria Pou i Serra](https://ca.wikipedia.org/wiki/Josep_Maria_Pou_i_Serra)| 79 | Actor de teatre, cinema i televisió molt guardonat |
