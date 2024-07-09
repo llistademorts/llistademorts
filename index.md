@@ -15,7 +15,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 # Progrés de la llista
 
-1 encerts de 50 possibles, 2% (de moment)
+2 encerts de 50 possibles, 4% (de moment)
 
 # Llistes anteriors
 
@@ -39,7 +39,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | 7 | [Joan Veny i Clar](https://ca.wikipedia.org/wiki/Joan_Veny_i_Clar)| 91 | Lingüísta |
 | 8 | [Rosa Regàs Pagés](https://ca.wikipedia.org/wiki/Rosa_Reg%C3%A0s_i_Pag%C3%A8s)| 90 | Escriptora |
 | 9 | [Rodolfo Martín Villa](https://ca.wikipedia.org/wiki/Rodolfo_Mart%C3%ADn_Villa)| 89 | Polític i fugat de la justícia argentina |
-| 10 | [Marta Ferrusola i Lladós](https://ca.wikipedia.org/wiki/Marta_Ferrusola_i_Llad%C3%B3s)| 88 | Mare superiora |
+| 10 | ~~[Marta Ferrusola i Lladós](https://ca.wikipedia.org/wiki/Marta_Ferrusola_i_Llad%C3%B3s)~~| ~~88~~ | ~~Mare superiora~~ |
 | 11 | [Amancio Ortega](https://ca.wikipedia.org/wiki/Amancio_Ortega_Gaona)| 87 | Empresari |
 | 12 | [Teresa Gimpera i Flaquer](https://ca.wikipedia.org/wiki/Teresa_Gimpera_i_Flaquer)| 87 | Actriu i model |
 | 13 | [Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies](https://ca.wikipedia.org/wiki/Joan_Carles_I_d%27Espanya)| 85 | Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
