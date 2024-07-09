@@ -10,6 +10,5 @@ Avui, 8 de juliol de 2024, als 89 anys, ens deixa [Marta Ferrusola](https://ca.w
 Na Marta Ferrusola és el segon candidat que abandona la Llista de Morts de 2024. Descansi en pau.
 
 Només l'hora és incerta.
-![Marta Ferrusola]()
-Imatge: CDC/Jordi Play(https://github.com/llistademorts/llistademorts/assets/96840785/3044b59c-9778-4d2d-bfe7-848d5d1f866f)
- - 16è Congrés de Convergència a Reus, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/, via Wikimedia Commons
+![Marta Ferrusola](https://github.com/llistademorts/llistademorts/assets/96840785/3044b59c-9778-4d2d-bfe7-848d5d1f866f)
+Imatge: CDC/Jordi Play - 16è Congrés de Convergència a Reus, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0/, via Wikimedia Commons
