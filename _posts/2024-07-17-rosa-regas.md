@@ -11,5 +11,5 @@ Na Rosa Regàs és el tercer candidat que abandona la Llista de Morts de 2024. D
 
 Només l'hora és incerta.
 
-![Rosa_Regàs](https://github.com/user-attachments/assets/3f870855-0664-47d7-a4d5-6ccc2d9b01af) l'any 2014
+![Rosa_Regàs l'any 2014](https://github.com/user-attachments/assets/3f870855-0664-47d7-a4d5-6ccc2d9b01af)
 Imatge: canalinfoLibre (youtube), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
