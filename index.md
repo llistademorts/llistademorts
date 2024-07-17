@@ -15,14 +15,15 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 # Progrés de la llista
 
-2 encerts de 50 possibles, 4% (de moment)
+3 encerts de 50 possibles, 6% (de moment)
 
 # Llistes anteriors
 
 | Any | Encerts | Percentatge|
 | --: |--------:|----------: |
-| [2022](./2022) | 2 | 4% |
+| [2024] | 3 | 6% |
 | [2023](./2023) | 4 | 8% |
+| [2022](./2022) | 2 | 4% |
 
 
 # Llista de Morts 2024
@@ -37,7 +38,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | 5 | [Jordi Pujol](https://ca.wikipedia.org/wiki/Jordi_Pujol_i_Soley)| 93 | Deixat i polític |
 | 6 | [Josep Vilarasau Salat](https://ca.wikipedia.org/wiki/Josep_Vilarasau_Salat)| 92 | Economista i president de la Caixa |
 | 7 | [Joan Veny i Clar](https://ca.wikipedia.org/wiki/Joan_Veny_i_Clar)| 91 | Lingüísta |
-| 8 | [Rosa Regàs Pagés](https://ca.wikipedia.org/wiki/Rosa_Reg%C3%A0s_i_Pag%C3%A8s)| 90 | Escriptora |
+| 8 | ~~[Rosa Regàs Pagés](https://ca.wikipedia.org/wiki/Rosa_Reg%C3%A0s_i_Pag%C3%A8s)~~| ~~90~~ | ~~Escriptora~~ |
 | 9 | [Rodolfo Martín Villa](https://ca.wikipedia.org/wiki/Rodolfo_Mart%C3%ADn_Villa)| 89 | Polític i fugat de la justícia argentina |
 | 10 | ~~[Marta Ferrusola i Lladós](https://ca.wikipedia.org/wiki/Marta_Ferrusola_i_Llad%C3%B3s)~~| ~~88~~ | ~~Mare superiora~~ |
 | 11 | [Amancio Ortega](https://ca.wikipedia.org/wiki/Amancio_Ortega_Gaona)| 87 | Empresari |
