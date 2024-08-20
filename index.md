@@ -15,7 +15,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2025 a 
 
 # Progrés de la llista
 
-5 encerts de 50 possibles, 5% (de moment)
+5 encerts de 50 possibles, 10% (de moment)
 
 # Llistes anteriors
 
