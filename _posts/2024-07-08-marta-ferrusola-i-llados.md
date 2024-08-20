@@ -5,7 +5,7 @@ title:  "S'ha mort Marta Ferrusola i Lladós"
 ---
 # Marta Ferrusola i Lladós
 
-Avui, 8 de juliol de 2024, als 89 anys, ens deixa [Marta Ferrusola](https://ca.wikipedia.org/wiki/Marta_Ferrusola_i_Llad%C3%B3s). Empressària del sector de la jardineria i floristeria, coneguda per ser l'esposa de Jordi Pujol i mare superiora (de 7 fills).
+Avui, 8 de juliol de 2024, als 89 anys, ens deixa [Marta Ferrusola](https://ca.wikipedia.org/wiki/Marta_Ferrusola_i_Llad%C3%B3s). Empresària del sector de la jardineria i floristeria, coneguda per ser l'esposa de Jordi Pujol i mare superiora (de 7 fills).
 
 Na Marta Ferrusola és el segon candidat que abandona la Llista de Morts de 2024. Descansi en pau.
 
