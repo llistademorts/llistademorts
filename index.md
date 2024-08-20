@@ -9,19 +9,19 @@ Les regles de la **Llista de Morts** són ben simples:
 - La llista està limitada a 50 candidatures.
 - Només 25 candidats poden repetir en la llista d'un any a l'altre.
 
-La **LLista de Morts** de 2024 és la tercera edició, per tant, és el primer cop que podem repescar algun dels 25 candidats de 2022 descartats en l'edició de 2023.
+La **Llista de Morts** de 2024 és la tercera edició, per tant, és el primer cop que podem repescar algun dels 25 candidats de 2022 descartats en l'edició de 2023.
 
-Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a l'adreça llistademorts@gmail.com
+Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2025 a l'adreça llistademorts@gmail.com
 
 # Progrés de la llista
 
-4 encerts de 50 possibles, 8% (de moment)
+5 encerts de 50 possibles, 5% (de moment)
 
 # Llistes anteriors
 
 | Any | Encerts | Percentatge |
 | --: |--------:|------------:|
-| [2024] |       4 |          8% |
+| [2024] |       5 |          10% |
 | [2023](./2023) |       4 |          8% |
 | [2022](./2022) |       2 |          4% |
 
@@ -31,7 +31,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 
 | Posició | Nom |    Edat | Descripció |
 | ------: |-----|--------:|----------- |
-| 1 | [Maria Branyas Morera](https://ca.wikipedia.org/wiki/Maria_Branyas_Morera)| 116 | Supercentenària |
+| 1 | ~~[Maria Branyas Morera](https://ca.wikipedia.org/wiki/Maria_Branyas_Morera)~~| ~~116~~ | ~~Supercentenària~~ |
 | 2 | [Pere Portabella i Ràfols](https://ca.wikipedia.org/wiki/Pere_Portabella_i_R%C3%A0fols)| 96 | Director i guionista |
 | 3 | [Marina Vilalta i Fajula](https://ca.wikipedia.org/wiki/Marina_Vilalta_i_Fajula)| 96 | Pastora |
 | 4 | [Jaume Pla i Pladevall](https://ca.wikipedia.org/wiki/Jaume_Pla_i_Pladevall)| 95 | Actor |
@@ -48,7 +48,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2024 a 
 | 15 | [Roser Capdevila](https://ca.wikipedia.org/wiki/Roser_Capdevila_i_Valls)| 84 | Dibuixant |
 | 16 | [Lluís Prenafeta](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Prenafeta_i_Garrusta)| 84 | Delinqüent |
 | 17 | [Lluís Permanyer](https://ca.wikipedia.org/wiki/Rosa_Reg%C3%A0s_i_Pag%C3%A8s)| 84 | Periodista i escriptor |
-| 18 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 83 | Politic constitucionalista i defendor de la família reial espanyola |
+| 18 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 83 | Politic constitucionalista i defensor de la família reial espanyola |
 | 19 | [Jaume Figueras i Rabert](https://ca.wikipedia.org/wiki/Jaume_Figueras_i_Rabert)| 83 | Analista cinematogràfic |
 | 20 | [Eliseu Climent](https://ca.wikipedia.org/wiki/Eliseu_Climent_i_Corber%C3%A0)| 83 | Promotor cultural i venedor de subscripcions |
 | 21 | [Ramon Pelegero i Sanchis (Raimon)](https://ca.wikipedia.org/wiki/Raimon)| 83 | Músic i compositor |
