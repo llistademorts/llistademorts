@@ -31,12 +31,12 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2025 a 
 
 | Posició | Nom |    Edat | Descripció |
 | ------: |-----|--------:|----------- |
-| 1 | ~~[Maria Branyas Morera](https://ca.wikipedia.org/wiki/Maria_Branyas_Morera)~~| ~~116~~ | ~~Supercentenària~~ |
+| 1 | ~~[Maria Branyas Morera](https://ca.wikipedia.org/wiki/Maria_Branyas_Morera)~~| ~~117~~ | ~~Supercentenària~~ |
 | 2 | [Pere Portabella i Ràfols](https://ca.wikipedia.org/wiki/Pere_Portabella_i_R%C3%A0fols)| 96 | Director i guionista |
 | 3 | [Marina Vilalta i Fajula](https://ca.wikipedia.org/wiki/Marina_Vilalta_i_Fajula)| 96 | Pastora |
 | 4 | [Jaume Pla i Pladevall](https://ca.wikipedia.org/wiki/Jaume_Pla_i_Pladevall)| 95 | Actor |
 | 5 | [Jordi Pujol](https://ca.wikipedia.org/wiki/Jordi_Pujol_i_Soley)| 93 | Deixat i polític |
-| 6 | [Josep Vilarasau Salat](https://ca.wikipedia.org/wiki/Josep_Vilarasau_Salat)| 92 | Economista i president de la Caixa |
+| 6 | [Josep Vilarasau Salat](https://ca.wikipedia.org/wiki/Josep_Vilarasau_Salat)| 92 | Economista i president de La Caixa |
 | 7 | [Joan Veny i Clar](https://ca.wikipedia.org/wiki/Joan_Veny_i_Clar)| 91 | Lingüísta |
 | 8 | ~~[Rosa Regàs Pagés](https://ca.wikipedia.org/wiki/Rosa_Reg%C3%A0s_i_Pag%C3%A8s)~~| ~~90~~ | ~~Escriptora~~ |
 | 9 | [Rodolfo Martín Villa](https://ca.wikipedia.org/wiki/Rodolfo_Mart%C3%ADn_Villa)| 89 | Polític i fugat de la justícia argentina |
@@ -67,7 +67,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2025 a 
 | 34 | [Magda Oranich](https://ca.wikipedia.org/wiki/Magda_Oranich_i_Solagran)| 78 | Advocada |
 | 35 | [Rafel Ribó](https://ca.wikipedia.org/wiki/Rafael_Rib%C3%B3_i_Mass%C3%B3)| 78 | Polític |
 | 36 | [Aleix Vidal-Quadras i Roca](https://ca.wikipedia.org/wiki/Aleix_Vidal-Quadras_i_Roca)| 78 | Polític tirotejat |
-| 37 | [Joan Josep Omella i Omella](https://ca.wikipedia.org/wiki/Joan_Josep_Omella_i_Omella)| 77 | Aragonès que vol parlar en castellà a la moreneta |
+| 37 | [Joan Josep Omella i Omella](https://ca.wikipedia.org/wiki/Joan_Josep_Omella_i_Omella)| 77 | Aragonès que vol parlar en castellà a la Moreneta |
 | 38 | [Paul Preston](https://ca.wikipedia.org/wiki/Paul_Preston)| 77 | Historiador |
 | 39 | [Josep Carreras i Coll](https://ca.wikipedia.org/wiki/Josep_Carreras_i_Coll)| 77 | Cantant |
 | 40 | [Josep Borrell i Fontelles](https://ca.wikipedia.org/wiki/Josep_Borrell_i_Fontelles)| 76 | Polític estafat amb informació privilegiada i de curiosa diplomàcia |
