@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: 2024
 title:  "Amb il·lusió!"
 ---
 # Amb il·lusió
