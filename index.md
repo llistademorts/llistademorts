@@ -41,7 +41,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2026 a 
 | 7 | [Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies](https://ca.wikipedia.org/wiki/Joan_Carles_I_d%27Espanya)| 85 | Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
 | 8 | [Josep Maria Flotats i Picas](https://ca.wikipedia.org/wiki/Josep_Maria_Flotats_i_Picas)| 84 | Actor i director de teatre |
 | 9 | [Roser Capdevila](https://ca.wikipedia.org/wiki/Roser_Capdevila_i_Valls)| 84 | Dibuixant |
-| ~~10~~ | ~~[Lluís Permanyer](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Permanyer_i_Llad%C3%B3s)~~|~~84~~ | ~~Periodista i escriptor~~ |
+| ~~10~~ | ~~[Lluís Permanyer](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Permanyer_i_Llad%C3%B3s)~~|~~86~~ | ~~Periodista i escriptor~~ |
 | 11 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 83 | Politic constitucionalista i defendor de la família reial espanyola |
 | 12 | [Jaume Figueras i Rabert](https://ca.wikipedia.org/wiki/Jaume_Figueras_i_Rabert)| 83 | Analista cinematogràfic |
 | 13 | [Eliseu Climent](https://ca.wikipedia.org/wiki/Eliseu_Climent_i_Corber%C3%A0)| 83 | Promotor cultural i venedor de subscripcions |
