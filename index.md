@@ -42,7 +42,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2026 a 
 | 8 | [Josep Maria Flotats i Picas](https://ca.wikipedia.org/wiki/Josep_Maria_Flotats_i_Picas)| 84 | Actor i director de teatre |
 | 9 | [Roser Capdevila](https://ca.wikipedia.org/wiki/Roser_Capdevila_i_Valls)| 84 | Dibuixant |
 | ~~10~~ | ~~[Lluís Permanyer](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Permanyer_i_Llad%C3%B3s)~~|~~86~~ | ~~Periodista i escriptor~~ |
-| 11 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 83 | Politic constitucionalista i defendor de la família reial espanyola |
+| 11 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 83 | Politic constitucionalista i defensor de la família reial espanyola |
 | 12 | [Jaume Figueras i Rabert](https://ca.wikipedia.org/wiki/Jaume_Figueras_i_Rabert)| 83 | Analista cinematogràfic |
 | 13 | [Eliseu Climent](https://ca.wikipedia.org/wiki/Eliseu_Climent_i_Corber%C3%A0)| 83 | Promotor cultural i venedor de subscripcions |
 | 14 | [Pilarín Bayés](https://ca.wikipedia.org/wiki/Pilar_Bay%C3%A9s_i_de_Luna)| 82 | Dibuixant |
@@ -69,15 +69,15 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2026 a 
 | 35 | [Joan Fortuny i Guarro](https://ca.wikipedia.org/wiki/Joan_Fortuny_i_Guarro)| 68 | Músic |
 | 36 | [Antoni Miquel Cerveró 'Leslie'](https://ca.wikipedia.org/wiki/Los_S%C3%ADrex)| 79 | Artista |
 | 37 | [Josep Maria Minguella i Llobet](https://ca.wikipedia.org/wiki/Josep_Maria_Minguella_i_Llobet)| 76 | Representant |
-| 38 | [Periodista molt esotèric que no està lluny de l'Erich von Däniken qui no podem posar a la llista](https://ca.wikipedia.org/wiki/Sebasti%C3%A0-Daniel_Arbon%C3%A9s_Subirats)| 76 | Periodista molt esotèric que no està llunny de l'Erich von Däniken que no podem popsar a la llista |
+| 38 | [Sebastià d'Arbó](https://ca.wikipedia.org/wiki/Sebasti%C3%A0-Daniel_Arbon%C3%A9s_Subirats)| 76 | Periodista molt esotèric que no està llunny de l'Erich von Däniken que no podem posar a la llista |
 | 39 | [Josep-Lluís Carod-Rovira](https://ca.wikipedia.org/wiki/Josep-Llu%C3%ADs_Carod-Rovira)| 71 | Polític, aquí i a la Xina Popular |
-| 40 | [Juan Manuel Asensi Ripoll](https://ca.wikipedia.org/wiki/Juan_Manuel_Asensi_Ripoll)| 74 | Presindent de l'associació de veterans del Barça |
-| 41 | [Jordi Savall i Bernadet](https://ca.wikipedia.org/wiki/Jordi_Savall_i_Bernadet)| 82 | Músic i compositor especialitat en música antiga i viola de gamba |
+| 40 | [Juan Manuel Asensi Ripoll](https://ca.wikipedia.org/wiki/Juan_Manuel_Asensi_Ripoll)| 74 | President de l'associació de veterans del Barça |
+| 41 | [Jordi Savall i Bernadet](https://ca.wikipedia.org/wiki/Jordi_Savall_i_Bernadet)| 82 | Músic i compositor especialitzat en música antiga i viola de gamba |
 | 42 | [Josefina Castellví i Piulachs](https://ca.wikipedia.org/wiki/Josefina_Castellv%C3%AD_i_Piulachs)| 88 | Oceanògrafa i catalana investigadora a l'Antàrtida |
-| 43 | [Maria Teresa Codina i Mir](https://ca.wikipedia.org/wiki/Maria_Teresa_Codina_i_Mir)| 96 | Mestra i pedagoga que sí es preocupava pels seus alumnes |
+| 43 | [Maria Teresa Codina i Mir](https://ca.wikipedia.org/wiki/Maria_Teresa_Codina_i_Mir)| 96 | Mestra i pedagoga que sí que es preocupava pels seus alumnes |
 | 44 | [Maria del Carme Girau i Alonso](https://ca.wikipedia.org/wiki/Maria_del_Carme_Girau_i_Alonso)| 83 | Jutge del grup hexadecimal |
 | 45 | [Carme Ruscalleda i Serra](https://ca.wikipedia.org/wiki/Carme_Ruscalleda_i_Serra)| 71 | Cuina per ser feliç |
-| 46 | [Ramon López de Mántaras i Badia](https://ca.wikipedia.org/wiki/Ramon_L%C3%B3pez_de_M%C3%A1ntaras_i_Badia)| 71 | Pioner de la intel·ligència artifical a Catalunya |
+| 46 | [Ramon López de Mántaras i Badia](https://ca.wikipedia.org/wiki/Ramon_L%C3%B3pez_de_M%C3%A1ntaras_i_Badia)| 71 | Pioner de la intel·ligència artificial a Catalunya |
 | 47 | [Joan Lluís Bozzo i Duran](https://ca.wikipedia.org/wiki/Joan_Llu%C3%ADs_Bozzo_i_Duran)| 70 | Actor i fundador de Dagoll Dagom |
 | 48 | [Jaume Sisa i Mestres](https://ca.wikipedia.org/wiki/Jaume_Sisa_i_Mestres)| 75 | Cantant i compositor galàctic amb molta solfa |
 | 49 | [Jaume Arnella i París](https://ca.wikipedia.org/wiki/Jaume_Arnella_i_Par%C3%ADs)| 80 | Cantant del grup de Folk |
