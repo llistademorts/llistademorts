@@ -48,23 +48,23 @@ Cap encert de 50 possibles, 0% (de moment)
 | 14 | [Joan Carles Alfons Víctor Maria de Borbó i Borbó-Dues Sicílies](https://ca.wikipedia.org/wiki/Joan_Carles_I_d%27Espanya)| 87 | Fratricida accidental, franquista jurat, comissionista i excap d'estat espanyol |
 | 15 | [Paco Muñoz](https://ca.wikipedia.org/wiki/Paco_Mu%C3%B1oz)| 86 | Cantant i escriptor |
 | 16 | [Josep Maria Flotats i Picas](https://ca.wikipedia.org/wiki/Josep_Maria_Flotats_i_Picas)| 86 | Actor i director de teatre |
-| 17 | [Lluís Prenafeta](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Prenafeta_i_Garrusta)| 86 | Delinqüent |
-| 18 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 85 | Polític constitucionalista i defensor de la família reial espanyola |
-| 19 | [Jaume Figueras i Rabert](https://ca.wikipedia.org/wiki/Jaume_Figueras_i_Rabert)| 85 | Analista cinematogràfic |
-| 20 | [Eliseu Climent](https://ca.wikipedia.org/wiki/Eliseu_Climent_i_Corber%C3%A0)| 85 | Promotor cultural i venedor de subscripcions |
-| 21 | [Ramon Pelegero i Sanchis (Raimon)](https://ca.wikipedia.org/wiki/Raimon)| 85 | Músic i compositor |
-| 22 | [Pasqual Maragall i Mira](https://ca.wikipedia.org/wiki/Pasqual_Maragall_i_Mira)| 84 | President de Catalunya |
-| 23 | [Isidre Fainé](https://ca.wikipedia.org/wiki/Isidre_Fain%C3%A9_i_Casas)| 83 | Directiu empresarial |
-| 24 | [Mònica Randall](https://ca.wikipedia.org/wiki/M%C3%B2nica_Randall)| 83 | Actriu |
-| 25 | [Maruja Torres](https://ca.wikipedia.org/wiki/Maruja_Torres)| 82 | Escriptora i periodista |
-| 26 | [Manuel Milián Mestre](https://ca.wikipedia.org/wiki/Manuel_Mili%C3%A1n_Mestre)| 82 | Polític i mà dreta de Fraga Iribarne |
-| 27 | [Joan Manuel Serrat](https://ca.wikipedia.org/wiki/Joan_Manuel_Serrat_i_Teresa)| 82 | Cantant i compositor |
-| 28 | [Antoni Miquel Cerveró 'Leslie'](https://ca.wikipedia.org/wiki/Los_S%C3%ADrex)| 81 | Artista |
-| 29 | [Jordi Banacolocha](https://ca.wikipedia.org/wiki/Jordi_Banacolocha)| 81 | Actor |
-| 30 | [Salvador Alemany](https://ca.wikipedia.org/wiki/Salvador_Alemany_i_Mas)| 81 | Empresari |
-| 31 | [Vicent Torrent i Centelles](https://ca.wikipedia.org/wiki/Vicent_Torrent_i_Centelles)| 80 | Musicòleg |
-| 32 | [Aleix Vidal-Quadras i Roca](https://ca.wikipedia.org/wiki/Aleix_Vidal-Quadras_i_Roca)| 80 | Polític tirotejat |
-| 33 | [Magda Oranich](https://ca.wikipedia.org/wiki/Magda_Oranich_i_Solagran)| 80 | Advocada |
+| 17 | [Miquel Roca i Junyent](https://ca.wikipedia.org/wiki/Miquel_Roca_i_Junyent)| 85 | Polític constitucionalista i defensor de la família reial espanyola |
+| 18 | [Jaume Figueras i Rabert](https://ca.wikipedia.org/wiki/Jaume_Figueras_i_Rabert)| 85 | Analista cinematogràfic |
+| 19 | [Eliseu Climent](https://ca.wikipedia.org/wiki/Eliseu_Climent_i_Corber%C3%A0)| 85 | Promotor cultural i venedor de subscripcions |
+| 20 | [Ramon Pelegero i Sanchis (Raimon)](https://ca.wikipedia.org/wiki/Raimon)| 85 | Músic i compositor |
+| 21 | [Pasqual Maragall i Mira](https://ca.wikipedia.org/wiki/Pasqual_Maragall_i_Mira)| 84 | President de Catalunya |
+| 22 | [Isidre Fainé](https://ca.wikipedia.org/wiki/Isidre_Fain%C3%A9_i_Casas)| 83 | Directiu empresarial |
+| 23 | [Mònica Randall](https://ca.wikipedia.org/wiki/M%C3%B2nica_Randall)| 83 | Actriu |
+| 24 | [Maruja Torres](https://ca.wikipedia.org/wiki/Maruja_Torres)| 82 | Escriptora i periodista |
+| 25 | [Manuel Milián Mestre](https://ca.wikipedia.org/wiki/Manuel_Mili%C3%A1n_Mestre)| 82 | Polític i mà dreta de Fraga Iribarne |
+| 26 | [Joan Manuel Serrat](https://ca.wikipedia.org/wiki/Joan_Manuel_Serrat_i_Teresa)| 82 | Cantant i compositor |
+| 27 | [Antoni Miquel Cerveró 'Leslie'](https://ca.wikipedia.org/wiki/Los_S%C3%ADrex)| 81 | Artista |
+| 28 | [Jordi Banacolocha](https://ca.wikipedia.org/wiki/Jordi_Banacolocha)| 81 | Actor |
+| 29 | [Salvador Alemany](https://ca.wikipedia.org/wiki/Salvador_Alemany_i_Mas)| 81 | Empresari |
+| 30 | [Vicent Torrent i Centelles](https://ca.wikipedia.org/wiki/Vicent_Torrent_i_Centelles)| 80 | Musicòleg |
+| 31 | [Aleix Vidal-Quadras i Roca](https://ca.wikipedia.org/wiki/Aleix_Vidal-Quadras_i_Roca)| 80 | Polític tirotejat |
+| 32 | [Magda Oranich](https://ca.wikipedia.org/wiki/Magda_Oranich_i_Solagran)| 80 | Advocada |
+| 33 | [Paul Preston](https://ca.wikipedia.org/wiki/Paul_Preston)| 79 | Historiador |
 | 34 | [Josep Carreras i Coll](https://ca.wikipedia.org/wiki/Josep_Carreras_i_Coll)| 79 | Cantant |
 | 35 | [Rosa Oriol](https://ca.wikipedia.org/wiki/Rosa_Maria_Oriol_Porta)| 79 | Venedora d'óssos |
 | 36 | [Josep Maria Mainat i Castells](https://ca.wikipedia.org/wiki/Josep_Maria_Mainat_i_Castells)| 79 | El ros de la Trinca |
