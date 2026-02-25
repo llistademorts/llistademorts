@@ -15,7 +15,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2027 a 
 
 # Progrés de la llista
 
-Cap encert de 50 possibles, 0% (de moment)
+1 encert de 50 possibles, 2% (de moment)
 
 # Llistes anteriors
 
@@ -39,7 +39,7 @@ Cap encert de 50 possibles, 0% (de moment)
 | 5 | [Marina Vilalta i Fajula](https://ca.wikipedia.org/wiki/Marina_Vilalta_i_Fajula)| 98 | Pastora |
 | 6 | [Jordi Pujol i Soley](https://ca.wikipedia.org/wiki/Jordi_Pujol_i_Soley)| 95 | Deixat i polític |
 | 7 | [Josep Vilarasau Salat](https://ca.wikipedia.org/wiki/Josep_Vilarasau_Salat)| 94 | Economista i president de la Caixa |
-| 8 | [Antonio Tejero Molina](https://ca.wikipedia.org/wiki/Antonio_Tejero_Molina)| 93 | Colpista dels de veritat que ja donaven per mort. Efímer resident al castell de Sant Ferran, Figueres. |
+| 8 | ~~[Antonio Tejero Molina](https://ca.wikipedia.org/wiki/Antonio_Tejero_Molina)~~| ~~93~~ | ~~Colpista dels de veritat que ja donaven per mort. Efímer resident al castell de Sant Ferran, Figueres.~~ |
 | 9 | [Joan Veny i Clar](https://ca.wikipedia.org/wiki/Joan_Veny_i_Clar)| 93 | Lingüista |
 | 10 | [Feliu Formosa i Torres](https://ca.wikipedia.org/wiki/Feliu_Formosa_i_Torres)| 91 | Traductor i poeta |
 | 11 | [Rodolfo Martín Villa](https://ca.wikipedia.org/wiki/Rodolfo_Mart%C3%ADn_Villa)| 91 | Polític i fugat de la justícia argentina |
