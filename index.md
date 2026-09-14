@@ -15,7 +15,7 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2027 a 
 
 # Progrés de la llista
 
-1 encert de 50 possibles, 2% (de moment)
+3 encerts de 50 possibles, 6% (de moment)
 
 # Llistes anteriors
 
@@ -36,9 +36,9 @@ Podeu fer-nos arribar comentaris o suggeriments de candidats per a l'any 2027 a 
 | 2 | [Josep Salvadó Pujadas](https://x.com/pinedavaquer/status/1873650459430519008)| 105 | Supervivent de la quinta del biberó que ja donaven per mort |
 | 3 | [Pere Portabella i Ràfols](https://ca.wikipedia.org/wiki/Pere_Portabella_i_R%C3%A0fols)| 98 | Director i guionista |
 | 4 | [Maria Teresa Codina i Mir](https://ca.wikipedia.org/wiki/Maria_Teresa_Codina_i_Mir)| 98 | Mestra i pedagoga que si es preocupava pels seus alumnes |
-| 5 | [Marina Vilalta i Fajula](https://ca.wikipedia.org/wiki/Marina_Vilalta_i_Fajula)| 98 | Pastora |
+| 5 | ~~[Marina Vilalta i Fajula](https://ca.wikipedia.org/wiki/Marina_Vilalta_i_Fajula)~~| ~~99~~ | ~~Pastora~~ |
 | 6 | [Jordi Pujol i Soley](https://ca.wikipedia.org/wiki/Jordi_Pujol_i_Soley)| 95 | Deixat i polític |
-| 7 | [Josep Vilarasau Salat](https://ca.wikipedia.org/wiki/Josep_Vilarasau_Salat)| 94 | Economista i president de la Caixa |
+| 7 | ~~[Josep Vilarasau Salat](https://ca.wikipedia.org/wiki/Josep_Vilarasau_Salat)~~| ~~95~~ | ~~Economista i president de la Caixa~~ |
 | 8 | ~~[Antonio Tejero Molina](https://ca.wikipedia.org/wiki/Antonio_Tejero_Molina)~~| ~~93~~ | ~~Colpista dels de veritat que ja donaven per mort. Efímer resident al castell de Sant Ferran, Figueres.~~ |
 | 9 | [Joan Veny i Clar](https://ca.wikipedia.org/wiki/Joan_Veny_i_Clar)| 93 | Lingüista |
 | 10 | [Feliu Formosa i Torres](https://ca.wikipedia.org/wiki/Feliu_Formosa_i_Torres)| 91 | Traductor i poeta |
